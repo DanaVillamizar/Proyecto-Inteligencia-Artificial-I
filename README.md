@@ -18,7 +18,7 @@ Se busca optimizar la precisión diagnóstica y explorar la viabilidad de su apl
 El Pima Indians Diabetes Database es un conjunto de datos clínicos recolectado por el Instituto Nacional de Diabetes y Enfermedades Digestivas y Renales de EE. UU., que contiene información médica de mujeres de etnia Pima, mayores de 21 años.
 Incluye variables como número de embarazos, concentración de glucosa en plasma, presión arterial, espesor del pliegue cutáneo, insulina, IMC, función hereditaria de la diabetes y edad.
 
-## 🤖 Modelos Utilizados
+##  Modelos Utilizados
 
 - **Random Forest, SVM y MLP (Red Neuronal Multicapa):**  
   Implementados y comparados con y sin reducción de dimensionalidad mediante PCA.
