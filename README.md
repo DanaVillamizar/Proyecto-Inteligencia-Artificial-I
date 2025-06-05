@@ -1,9 +1,17 @@
-<div align="center">
-
-# Diagnóstico de diabetes basado en datos clínicos
-
-## Autores  
-[Dana Villamizar](https://github.com/DanaVillamizar)  [Sneider Sánchez](https://github.com/Sneider-exe)  [Diego Guerrero](https://github.com/DanaVillamizar)
+<p align="center">
+  <h1 align="center">Diagnóstico de diabetes basado en datos clínicos</h1>
+  <p align="center">
+    <img src="BANNER.png" alt="Panorama Image" width="1600">
+  <p align="center">
+    <a href="https://github.com/DanaVillamizar" rel="external nofollow noopener" target="_blank"><strong>Dana Villamizar</strong></a>
+    ·
+    <a href="https://github.com/Sneider-exe" rel="external nofollow noopener" target="_blank"><strong>Sneider Sánchez</strong></a>
+    .
+    <a href="https://github.com/DiegoG02" rel="external nofollow noopener" target="_blank"><strong>Diego Guerrero</strong></a>
+    ·
+  </p>
+<p align="center">
+    Inteligencia Artificial I UIS 2025-1
 
 </div>
 
