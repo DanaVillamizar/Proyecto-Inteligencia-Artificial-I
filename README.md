@@ -42,7 +42,7 @@ Incluye variables como número de embarazos, concentración de glucosa en plasma
 
 ## 🔗 Enlaces del Proyecto
 
-- 🎥 [Video resumen en YouTube](https://youtu.be/l61ppLkPrUE)  
+- 🎥 [Video resumen en YouTube](https://youtu.be/w6EA-O-Z9xs)  
 - 📓 [Notebook en Google Colab](https://colab.research.google.com/drive/1fyvP4pEY_R4zRbl12tPezxp2lcpBygCm?usp=sharing)  
 - 📊 [Presentación en Canva](https://www.canva.com/design/DAGmHHSToas/U3WqjFRi_VsY8ahnyw-ZuQ/edit?utm_content=DAGmHHSToas&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
